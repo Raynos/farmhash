@@ -1,6 +1,6 @@
 {
   "name": "farmhash",
-  "version": "1.1.1",
+  "version": "0.2.2-node4-compat",
   "author": "Lovell Fuller <npm@lovell.info>",
   "contributors": [
     "Matt Ranney  <mjr@ranney.com>",
